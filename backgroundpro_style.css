@@ -1,0 +1,50 @@
+  body{
+            
+            background-image: url('https://modernartgallery.co.in/cdn/shop/files/pai_826868e9-c655-462a-9402-78502f59f08d_525x280.jpg?v=1657131956');
+            background-size: cover;
+            z-index: 1;
+            
+        }
+       
+        .heading{
+            text-align: center;
+            color: black;
+            font-size: larger;
+            font-family:cursive;
+           
+        }
+       .bg-demo{
+position:relative;
+left:20%;
+top:10%;
+
+
+ }
+        .bg-demo1{
+position: absolute;
+left:43%;
+top:21vh;
+
+
+   }
+   .bg-demo2{
+    position: absolute;
+    left:65%;
+    top: 21vh;
+  
+ 
+   }
+   .bg-demo3{
+    position: absolute;
+    left: 30%;
+    bottom: 10%;
+
+
+   }
+    .bg-demo4{
+    position: absolute;
+    left: 55%;
+    bottom: 10%;
+
+
+   }
